@@ -33,14 +33,10 @@ Shared bash primitives for machine hygiene, an MCP server for capturing and
 analyzing browser traffic, a model router that picks the right model tier per
 turn, and a way to run a second coding agent as a persistent service.
 
-- [pi-vault-mind](https://github.com/kylebrodeur/pi-vault-mind) - an Obsidian
-  plugin for a live queue, status, search, and chat
 - [pi-link](https://github.com/kylebrodeur/pi-link) - a local WebSocket network
   for coordinating Pi coding-agent terminals
 - [pi-model-router](https://github.com/kylebrodeur/pi-model-router) - an
   intelligent per-turn model router
-- [universal-agent-context](https://github.com/kylebrodeur/universal-agent-context)
-  - a universal context system for discovering agent skills
 
 ## Elsewhere
 
